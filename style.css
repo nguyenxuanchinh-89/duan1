@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+.box {
+  font-size: 2rem;
+  overflow: auto;
+  background-color: aqua;
+  display: inline-block;
+  width: 50vw;
+  height: 50vh;
+  overscroll-behavior: hidden;
+}
